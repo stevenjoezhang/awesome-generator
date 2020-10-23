@@ -5,6 +5,8 @@
 - [蛤蛤体生成器](https://github.com/dkwingsmt/haha)
 - [苏联笑话生成器](https://github.com/BlueBerryBread/Soviet-jokes-html)
 - [唐诗宋词生成器](https://github.com/hjptriplebee/Chinese_poem_generator)
+- [满分作文生成器](https://github.com/BeautyYuYanli/full-mark-composition-generator)
+- [明哥体生成器](https://github.com/cht8687/mingify)
 
 ## Hubian
 
